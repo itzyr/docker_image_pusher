@@ -3,5 +3,6 @@ nginx
 elasticsearch:8.17.0
 jenkins:2.60.2
 jenkins/jenkins:2.528.3-lts
+openclaw/openclaw:latest
 #支持指定架构 
 # --platform=linux/arm64 xiaoyaliu/alist
